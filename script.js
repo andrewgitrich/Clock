@@ -45,6 +45,6 @@ make a div for each hand, the clock face and wrap it all in another div
 js:
 get the current date-- new Date(),
 
-
+THIS IS A SIMPLE CHANGE TO PRACTICE GIT 
 
 */
